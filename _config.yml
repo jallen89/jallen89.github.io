@@ -50,7 +50,7 @@ round-avatar: true
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Joey Allen
+  name: "Joey Allen"
 # --- Footer social media links --- #
 
 # Select the social network links that you want to show in the footer.
